@@ -1,6 +1,6 @@
 def weight_on_planets():
    # write your code here
-   print("What do you weigh on earth? " , end=" ");
+   print("What do you weigh on earth?" , end=" ");
    weight = input()
    weightOnEarth = int(weight)
    weightOnMars = weightOnEarth * 0.38
